@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ManishGowda-0120/ManishGowda-0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Hi, I'm Manish Gowda, a backend-focused Java developer.
 
-Here are some ideas to get you started:
+• I enjoy learning how things work under the hood and building clean, logical backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Currently, I’m learning and working with Java, Spring, Spring Boot, JDBC, Servlets, Security, and exploring AI integration in backend applications.
+
+• I focus on understanding core concepts like IoC, dependency injection, loose coupling, database interaction, and API design by writing and breaking code.
+
+• I mainly use Java, Spring Boot, MySQL, JDBC, Git, and basic frontend tools for testing backend flows.
+
+• You can find my projects here on GitHub as I learn, build, and improve step by step.
+
+• How to reach me:  
+  – Linkedin : www.linkedin.com/in/manish-gowda01 
+  – Email: manishgowda0120@gmail.com
