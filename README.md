@@ -1,17 +1,36 @@
 ## Hi there 👋
 
-• Hi, I'm Manish Gowda, a backend-focused Java developer.
+I'm Manish Gowda, a backend developer focused on Java and the Spring ecosystem.
 
-• I enjoy learning how things work under the hood and building clean, logical backend systems.
+I enjoy understanding how things work under the hood — especially how Spring and Spring Boot manage logic, dependency injection, and application flow using clean Java code.
 
-• Currently, I’m learning and working with Java, Spring, Spring Boot, JDBC, Servlets, Security, and exploring AI integration in backend applications.
+Right now, I’m learning and building with Java, Spring, Spring Boot, JDBC, Servlets, Security, and gradually exploring AI concepts. I prefer learning by coding, experimenting, and breaking things to understand them better.
 
-• I focus on understanding core concepts like IoC, dependency injection, loose coupling, database interaction, and API design by writing and breaking code.
+This GitHub is where I’ll be sharing practice projects, backend experiments, and learning-based implementations as I grow into a strong backend engineer. Everything here is written with the intention of understanding the logic, not just making things work.
 
-• I mainly use Java, Spring Boot, MySQL, JDBC, Git, and basic frontend tools for testing backend flows.
+────────────────────────────
 
-• You can find my projects here on GitHub as I learn, build, and improve step by step.
+Tools & Tech
 
-• How to reach me:  
-  – Linkedin : www.linkedin.com/in/manish-gowda01 
-  – Email: manishgowda0120@gmail.com
+· Java  
+· Spring, Spring Boot  
+· JDBC, Servlets  
+· SQL, MySQL  
+· Basic Spring Security  
+· Git & GitHub  
+
+────────────────────────────
+
+Currently Working On
+
+· Strengthening core Java and backend fundamentals  
+· Understanding Spring IoC, DI, and application flow  
+· Building small backend projects with Spring Boot and JDBC  
+
+────────────────────────────
+
+How to Reach Me
+
+· Email : manishgowda0120@gmail.com  
+· LinkedIn: www.linkedin.com/in/manish-gowda01
+
