@@ -13,10 +13,9 @@ This GitHub is where I’ll be sharing practice projects, backend experiments, a
 Tools & Tech
 
 · Java  
-· Spring, Spring Boot  
-· JDBC, Servlets  
-· SQL, MySQL  
-· Basic Spring Security  
+· Spring Boot  
+· JDBC  
+· SQL, MySQL    
 · Git & GitHub  
 
 ────────────────────────────
